@@ -6,5 +6,5 @@ I'm also the developer behind [Ember](https://github.com/Kawtious/Ember), a smal
 
 When I'm not tinkering with code, I'm usually daydreaming about dragons, the majestic, fire-breathing kind, and creating in spaces where imagination and technology overlap. If you notice a fondness for scales, claws, and cozy fantasy vibes, that's very much intentional
 
-You can find more of my work, and whatever I'm currently forging, at https://zarkforge.xyz<br>
+You can find my work here on GitHub, as well as on my website at https://zarkforge.xyz, where I share what I'm currently forging<br>
 Feel free to explore, poke around, or say hi
