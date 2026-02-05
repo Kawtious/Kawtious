@@ -1,3 +1,5 @@
+## Forging code with a little fire
+
 I'm a very passionate software engineer who loves learning new things and diving headfirst into unfamiliar territory. New language? New stack? Ancient tech? No problem. Do you need me to learn COBOL? Sure! I genuinely enjoy the process of mastering whatever tools a project needs
 
 I'm also the developer behind [Ember](https://github.com/Kawtious/Ember), a small but lovingly crafted Discord bot designed to bring warmth, personality, and a bit of magic into servers. I care deeply about polish, delightful interactions, and building software that feels alive rather than purely functional
