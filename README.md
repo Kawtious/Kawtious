@@ -8,4 +8,4 @@ I make sure to bring a loving craft to every project I work with, and I design e
 
 When I'm not tinkering with code, I enjoy adventuring. My passion for dragons should not come as a surprise - if you notice a fondness for scales and claws, that's very much intentional
 
-You can find my work here on GitHub, as well as on my website at https://zarkforge.xyz, where I share what I'm currently forging. Feel free to explore, poke around, or say hi
+You can find my work here on GitHub where I share what I'm currently forging. Feel free to explore, poke around, or say hi
